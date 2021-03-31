@@ -72,7 +72,7 @@ const reducerEntrenador = (state = initialState, action) => {
         }
     }
 
-    if(action.type === "QUITAR_JUGADOR") {
+    if(action.type === "QUITAR_TITULAR") {
         return {
             ...state,
             titulares: state.titulares.filter(j => j.id !== action.jugador.id),

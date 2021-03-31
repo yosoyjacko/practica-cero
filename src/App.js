@@ -2,6 +2,7 @@ import { Provider } from 'react-redux'
 import EquipoSeleccionado from './component/EquipoSeleccionado';
 import Jugadores from './component/Jugadores';
 import store from './store';
+import Style from './styles/styles.scss'
 
 const App = () => (
   <Provider store={store}>
