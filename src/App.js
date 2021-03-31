@@ -7,7 +7,7 @@ import Style from './styles/styles.scss'
 const App = () => (
   <Provider store={store}>
     <main>
-      <h1>EDmanager</h1>
+      <h1>For Honor Futbolito</h1>
       <Jugadores />
       <EquipoSeleccionado />
     </main>
