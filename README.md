@@ -1,3 +1,33 @@
+# Practica cero
+
+practica de react.js con el video de EDteam
+https://youtu.be/HhtqSwUgP1U
+
+para practicar el uso de hooks, store, etc..
+
+frameworks instalados:
+Redux, react-redux, sass.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
