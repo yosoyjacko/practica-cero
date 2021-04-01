@@ -11,6 +11,11 @@ Redux, react-redux, sass.
 
 
 
+<div align="center"> 
+  <img src="https://github.com/yosoyjacko/toDoList/blob/master/img/img1.jpg" width="400px"</img> 
+  <img src="https://github.com/yosoyjacko/toDoList/blob/master/img/img2.jpg" width="400px"</img>
+</div>
+
 
 
 
